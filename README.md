@@ -8,3 +8,4 @@ The app is hosted at the URL: ---- however, can be run localy by the following s
 ## View Buttons
 Under the projects section, under each view button, there is the title of each project and its description. The view button itself links to the github repository of the projects.
 ## Dependencies
+-npm
